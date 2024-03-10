@@ -1,0 +1,59 @@
+.header{
+    background-color: purple;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+.home{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 20px;
+    color: rgb(13, 210, 210);
+}
+a{
+    text-decoration: none;
+    font-size: 18px;
+}
+.indianflag{
+    background-color: antiquewhite;
+    height: 700px;
+}
+.orange{
+    background-color: orangered;
+    height: 60px;
+    width: 300px;
+}
+.white{
+    background-color: white;
+    height: 60px;
+    width: 300px;
+}
+.green{
+    background-color: green;
+    height: 60px;
+    width: 300px;
+}
+.roman{
+    margin: 30px;
+    margin-top: 80px;
+    display: flex;
+}
+.blue{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+}
+.yellow{
+    background-color: yellow;
+    height: 100px;
+    width: 200px;
+}.red{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+}
+.balloon{
+    margin: 70px;
+    border: 7px dashed red;
+    padding: 5px;
+}
